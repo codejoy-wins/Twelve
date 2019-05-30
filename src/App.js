@@ -427,6 +427,111 @@ function App() {
     Pi is a constant ratio dependent on an immeasurable quantity. Until we know how to rationalize curved lines, Pi will remain irrational. </p>
     <h2>Last One</h2>
     <p>Lorem more</p>
+    <div id="image4"></div>
+    <h2>The Purpose of Algorithms</h2>
+    <code>This is not working because it has code in it.</code>    
+    <div id="image5"></div>
+    <h2>My Web Dev Methodology</h2>
+    <p>Facebook created a View Library called React in 2013. They conveniently made a terminal command “create-react-app” that starts an application for you. If you say in the command line, “create-react-app codejoy”, it will create a new react application called codejoy. Then if you cd into the directory of codejoy and run “npm start” a localhost will open your app at 3000.
+
+
+
+    This is an incredible head-start. It’s only a couple commands and you already have a working local website that is easily adjustable. It currently links to React’s homepage but you could easily redirect that link to your portfolio and make the app an advertisement.
+    
+    
+    
+    To recap:
+    
+    
+    
+    1) open your terminal
+    
+    2) cd to where you want your React app to go
+    
+    3) run “create-react-app exampleName” to create and name your React app
+    
+    4) cd into exampleName you chose and run “npm start”
+    
+    
+    
+    To further accelerate the development process, I have been using “Primitive CSS” which I copy and paste into my index.css file so everything is immediately reformatted. This means I can write normal html and always have a decent default style. It’s not super mobile responsive, but it accomplishes so much for just a quick copy and paste.
+    
+    
+    
+    5) Go here: https://taniarascia.github.io/primitive/css/main.css
+    
+    and just copy and paste all that code into your index.css, overwriting it.
+    
+    
+    
+    Now you’re ready to develop with React by making components. But what about when you’re ready to deploy? How will you get it online? Can you do it for free?
+    
+    
+    
+    Because React is technically a view library, it works well with single page applications or SPAs. SPAs are easier to deploy online because there are free services like github pages and netlify. I recommend Netlify because you get infinite pages, and random urls, or can pay for custom domain name if you want like I spent $10 to redirect my random url to maxjann.com
+    
+    
+    
+    In order to deploy conveniently and even continuously update, you have to use git. Git is a version control system to track your changes. What’s cool about it is that Netlify can access your github repositories and turn them into static webpages. It has bots that do the deployment for you, it even runs “npm run build” for you. All you do is specify which repo you want deployed.
+    
+    
+    
+    6) Use version control/ github
+    
+    7) Use netlify.com and choose repo
+    
+    8) Change url to custom domain if desired
+    
+    9) Now you have a working webpage and can immediately start sending it to people.
+    
+    
+    
+    create-react-app takes about 10 seconds to run. It would take me hours to do what it does manually, probably I couldn’t even do it. In comparison, setting up a django project to get to the point react is after create-react-app example and cd example npm start would take me about 15 minutes and deployment would take me about an hour on AWS or even Pythonanywhere.com with a 50% fail rate.
+    
+    
+    
+    That’s cutting time off of my start of creating web apps. Netlify cuts time off the end of the process. It takes virtually no time at all. The bots take about 15 - 30 seconds to make your github repo into a real webpage.
+    
+    
+    
+    When you combine the power of create-react-app in the beginning, as well as primitive css, with the power of Netlify free easy deployment from github, you have the ability to accomplish in 1 hour what would have taken days or been impossible to do otherwise.
+    
+    
+    
+    Primitive CSS essentially takes care of styling, takes it out of the equation. You can adjust it if you want, but it’s taken care of.
+    
+    
+    
+    Netlify takes care of deployment completely, as long as it’s a single page app, Netlify can handle it and since git is a normal part of development, netlify is not a nuisance.
+    
+    
+    
+    Even components can save ridiculous amounts of time. I can make an image component with certain methods or properties and then have different iterations of it so I don’t have to redo the logic for every button. 
+    
+    
+    
+    I don’t know advanced React yet but I feel good about my ability to process forms, run searches, and use an API. I could get better with posting to an API. It would be great if I could stay with SPAs on Netlify but have some sort of API I can post and pull from that way I can persist data and have users log back on.
+    
+    
+    
+    If that doesn’t work I’ll just add React to my Django Apps to improve the UI.
+    
+    
+    
+    I would say mobile-first responsive design is still my worst thing. The only time it’s felt good is with Bootstrap but that’s a template I edited without understanding. 
+    
+    
+    
+    Thank you React and Netlify, you’re making my job so much easier.
+    
+    
+    
+    It almost wouldn’t even be worth developing without these tools. It is crucial to my motivation to be able to get right to the good stuff, and be able to share it freely instantly. I made the site below on Tuesday, from start to finish, and had work.
+    
+    
+    
+    React Colors: https://kind-babbage-529f5c.netlify.com/</p>
+    <h2>ah</h2>
     </div>
   );
 }
