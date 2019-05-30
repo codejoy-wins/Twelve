@@ -416,8 +416,15 @@ function App() {
       In my opinion, the best explanation I can think of is that different genders have different values and therefore the performance reflects that. Women inherently have the gift of interpersonal relationships, and they may value spending time with the family, or having a healthy work-life balance more so than men, on average, thus explaining the difference in value produced at work. It doesn't have to be a competence issue. We can just call it a difference in priorities and therefore effort.
       
       In conclusion, let's please stop using sexism to talk about this issue. There shouldn't be anything derogatory about embracing the reality of traditional gender roles that are evolutionarily programmed into our reward systems. I don't care about equality of outcome; what I care about is equality of opportunity. If a gender is marginalized in their opportunity then I will listen to you, but I'm not in support of the government mandating I pay genders equally. I'd rather pay them what they're worth and let the chips fall where they may. Whatever happened to Martin Luther King, Jr? Let's not pay people by the their gender, color, or anything other than the content of their work. We can attempt to analyze data that way in search for answers, but when it comes to actual policy, don't tell me what to pay my employees, and don't call me sexist.</p>
-    <h2>Another One</h2>
-    <p>Lorem </p>
+    <div id="image3"></div>
+    <h2>Why Pi is Irrational</h2>
+    <p>I just was wondering where Pi came from. If circumference = 2πr then that means pi is the circumference divided by the diameter. Why this relationship between the distance around and the distance across? I wondered if this would happen with other shapes like triangles. I couldn't prove any theorems, so I googled "is there a pi for triangles?" and this image came up. Apparently, pi is already calculated by using smaller and smaller triangles to simulate a circle. This is why pi is irrational. The triangles can never quite become a perfect circle. It's like infinitesimal calculus.
+
+    So this whole difficulty comes from the fact that a circle is a concept. There are no perfect circles in nature, and if there was there would be no way to measure a curved line without using infinitesimal calculus to get ever-increasingly better estimations.
+    
+    There you have it, folks! Why is pi irrational? Because circles don't exist and are impossible to perfectly measure the perimeter because it is curved.
+    
+    Pi is a constant ratio dependent on an immeasurable quantity. Until we know how to rationalize curved lines, Pi will remain irrational. </p>
     <h2>Last One</h2>
     <p>Lorem more</p>
     </div>
