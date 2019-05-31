@@ -560,6 +560,16 @@ function App() {
     
     “It is the mark of an educated mind to be able to entertain a thought without accepting it.”
     ― Aristotle .</p>
+    <div id="image7"></div>
+    <h2>Quantum Circle</h2>
+    <p>So the equation of a circle is (x-h)^2 + (y-k)^2 = r^2
+
+    So there is no way to find out what x is, without y. There is no way to find out what y is, without x. Even if you know r. The x's and y's form the circle. Us trying to find the position of an electron is like trying to find x without y. The y position changes when we choose a specific x. The x position changes when we choose a specific y. Therefore, it can be in multiple places, but the moment we measure where it is, based on the other axis, it shifts into one place. Before that, it was in circular form, like the wave form of the narrow slit experiment in quantum physics. So maybe the electron is in another dimension, circularly, and the moment we measure where it is, based on this dimension, it shifts into being, but when it is not measured against this dimension, it is in multiple places at once. So maybe when a tree falls in the forest with no one around it doesn't make a noise here, but it does in any other dimensions where there are observations. It only makes the noise in the dimensions against which it is measured. If you do not give an x coordinate for a circle, you will not find the y coordinate of the circle. You will only find a range of possibilities based on the radius. That explains the double-slit experiment's results..</p>
+
+
+    
+
+
     </div>
   );
 }
