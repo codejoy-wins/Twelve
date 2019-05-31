@@ -426,8 +426,6 @@ function App() {
     There you have it, folks! Why is pi irrational? Because circles don't exist and are impossible to perfectly measure the perimeter because it is curved.
     
     Pi is a constant ratio dependent on an immeasurable quantity. Until we know how to rationalize curved lines, Pi will remain irrational. </p>
-    <h2>Last One</h2>
-    <p>Lorem more</p>
     <div id="image4"></div>
     <h2>The Purpose of Algorithms</h2>
     <code>This is not working because it has code in it.</code>    
