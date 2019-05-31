@@ -751,7 +751,7 @@ function App() {
     
     But when I boot up unity in 3d, I feel more godlike than when I am doing any other activity. In honour of this godlike feeling I get from designing games, I will name my company "Godlike Games" or something of the sort. Farewell, loyal readers. I highly encourage you to download Unity for free and experience the godlike feeling.</p>
 
-
+    <a href="maxjann.com">Jann Software</a>
     </div>
   );
 }
