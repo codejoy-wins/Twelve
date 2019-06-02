@@ -384,39 +384,41 @@ function App() {
       THE END
       
       </p>
-      <div id="image2"></div>
-      <h2>Gender Pay Gap Philosophy</h2>
-      <p>I'm going to attempt to clarify my position on why I defend the gender pay gap.
+      <div id="image13"></div>
+      <h2>Poems</h2>
+      <p>by Max Jann
 
-      I don't think it is the government's role to tell businesses what to pay their employees.
+
+
+      My ego is a supermassive black hole
       
-      If it is true that female workers are underpaid compared to their male counterparts in a specific domain, I believe that business would lose to a business that paid them fairly.
+      My paycheck will be a bonus
       
-      For example, if you have the male engineers make 100K a year and only pay the women 65K for the same exact quality of work, then here's what I think would be able to happen.
+      They want me to rewrite my past
       
-      A new software company could spring up and take advantage of underpaid good engineers. They could offer the underpaid females higher money, say 90K. Now you have two companies, both equally skilled engineers. You have one company paying 100K per employee (all men) and another company hiring only women at 90K. Since there is no difference between their skills, the 90K business could afford to sell their products for cheaper, or pay more for advertisements and R&D.
+      But history shant be broken
       
-      That is what I believe would start to happen if you actually had underpaid people because of arbitrary reasons like gender.
       
-      Okay, so let's assume that people get paid what they are worth for the sake of argument. That means women are not as valuable workers to the company if you break down the statistics for this hypothetical company.
       
-      Why might this be? How to explain that without asking the government to save you, and how to explain that without making gender stereotypes. We live in an over-sensitized world where you're calling me sexist. I'm not sexist. I'm making gross generalizations about potential explanations for the gender gap other than sexism. I think you are falsely attributing sexism as the cause of the gap, just as you are falsely accusing me of sexism now.
+      An owl with a mushroom growing out of his head
       
-      I believe a better explanation than companies overpaying males is that males, for various reasons, tend to value money more and work harder for it.
+      Is not enough to know you'll be dead
       
-      Let me give you a scientifically proven example. Some little boys like dolls and some little girls like hot wheels, but on average, boys like things like cars more than girls, whereas girls care more about people than inanimate objects. This puts us at a huge evolutionary advantage if we work together with the masculine and feminine.
+      You try to hold on all the same
       
-      A gender pay gap has 2 potential explanations.
+      Til your knees start to buckle and your legs become lame
       
-      a) The employers are sexist
       
-      b) Genders provide different values
       
-      So either you're calling someone a sexist, or you're the sexist. Right? No, it's not sexist to say genders provide different value at work. That would only be sexist if you assume both genders are trying equally. If they're both trying equally, but men are paid more, and the employers aren't sexist, that implies one gender is better than the other at the job, and that's what's got everyone so hot and bothered.
+      So let go I say, and surrender to sky
       
-      In my opinion, the best explanation I can think of is that different genders have different values and therefore the performance reflects that. Women inherently have the gift of interpersonal relationships, and they may value spending time with the family, or having a healthy work-life balance more so than men, on average, thus explaining the difference in value produced at work. It doesn't have to be a competence issue. We can just call it a difference in priorities and therefore effort.
+      Or end up crying the wrong kind of cry
       
-      In conclusion, let's please stop using sexism to talk about this issue. There shouldn't be anything derogatory about embracing the reality of traditional gender roles that are evolutionarily programmed into our reward systems. I don't care about equality of outcome; what I care about is equality of opportunity. If a gender is marginalized in their opportunity then I will listen to you, but I'm not in support of the government mandating I pay genders equally. I'd rather pay them what they're worth and let the chips fall where they may. Whatever happened to Martin Luther King, Jr? Let's not pay people by the their gender, color, or anything other than the content of their work. We can attempt to analyze data that way in search for answers, but when it comes to actual policy, don't tell me what to pay my employees, and don't call me sexist.</p>
+      
+      
+      All I know is God clothes the people who try
+      
+      </p>
     <div id="image3"></div>
     <h2>Why Pi is Irrational</h2>
     <p>I just was wondering where Pi came from. If circumference = 2πr then that means pi is the circumference divided by the diameter. Why this relationship between the distance around and the distance across? I wondered if this would happen with other shapes like triangles. I couldn't prove any theorems, so I googled "is there a pi for triangles?" and this image came up. Apparently, pi is already calculated by using smaller and smaller triangles to simulate a circle. This is why pi is irrational. The triangles can never quite become a perfect circle. It's like infinitesimal calculus.
