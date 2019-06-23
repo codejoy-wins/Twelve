@@ -389,32 +389,32 @@ function App() {
       <h2>Poems</h2>
       <p>by Max Jann
 
-
+      </p><p>
 
       My ego is a supermassive black hole
-      
+      </p><p>
       My paycheck will be a bonus
-      
+      </p><p>
       They want me to rewrite my past
-      
+      </p><p>
       But history shant be broken
       
-      
+      </p><p>
       
       An owl with a mushroom growing out of his head
-      
+      </p><p>
       Is not enough to know you'll be dead
-      
+      </p><p>
       You try to hold on all the same
-      
+      </p><p>
       Til your knees start to buckle and your legs become lame
-      
+      </p><p>
       
       
       So let go I say, and surrender to sky
-      
+      </p><p>
       Or end up crying the wrong kind of cry
-      
+      </p><p>
       
       
       All I know is God clothes the people who try
