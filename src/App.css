@@ -1,6 +1,19 @@
 .App {
   text-align: center;
 }
+p{
+  font-size: 5vw;
+  font-family: 'Roboto', sans-serif;
+
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+
+}
+h2{
+  font-size: 10vw;
+  font-family: 'Roboto', sans-serif;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
