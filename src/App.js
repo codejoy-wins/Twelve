@@ -385,7 +385,36 @@ function App() {
       THE END
       
       </p>
+      <div id="image6"></div>
+    <h2>The Mandela Effect</h2>
+    <p>As a child, we learn what symbols mean. The letter V means a phonetic sound we can use to combine with other sounds and make words which are also symbols with compounded meaning. There's nothing inherently V about the letter V other than our decision to make it so.
+
+    I didn't even know the handicap symbol represented a person in a wheelchair. I just thought of it as another letter. An arbitrary shape of lines. I thought of it as a complicated G that stood for handicapped and I didn't think about why. One day it hit me super hard that the whole time, it was supposed to be representing a person in a wheelchair. Handicap is a broader category than just people with wheelchairs, which is likely where my mistake came from. This experience of realizing a symbol stood for something other than what I thought, has also happened to me with the VW logo, but this is where it gets highly complicated.
+    
+    I have a distinct memory of the VW logo being connected, so much so that I went through life thinking that was the symbol for VW, without realizing it contained a V and a W overlapped and that's what it stood for. I cut out the middle man. I associated the strange symbol with that car company, without seeing the V and W, just like how I associated the handicap sign with handicapped people, without ever seeing the wheelchair.
+    
+    Here's the weird part: I don't think I would have been able to miss the V and the W if the two were separated by a line. There's not enough subtlety for me to have an Ahah moment that I clearly remember having. It's the V. You know? The W is clear in both cases, but the V is much more noticeable by dividing where it ends and the W begins.
+    
+    Now, no such mistakes can be made. It's possible that even the handicap symbol has changed and become more obvious. I'm interested in making sense of the craziness. It's possible that I'm remembering things wrong or noticing the same thing differently now. But still, the handicap and VW thing both hit me so hard. The worst part about all of this is, that after I learned the VW symbol contained a V and a W and that's why it was the way it was, I started noticing the gap between the V and the W on their cars, but I thought this was the car company adjusting itself and modernizing it's logo to become more obvious to increase brand recognition or utilize more precise design. Like Staples adding a staple to one of their letters in their logo. How cute? That's a marketing decision. That's a smart choice. It wasn't there the whole time, right? But now, when you dig, the scary part is that these companies claim the logo has always been that way. It simply reminds me of 1984 and rewriting history to serve the present. A crude form of retrocausality.
+    
+    Let me paint a picture for you that I think makes more sense. A Mom and Dad shop opens up and they sell office supplies and call themselves, "Staples". They sell mostly staples, maybe only staples. The sign is painted by their daughter and just says, "Staples" with no staple fancily designed within the letters on the sign. The company does well and expands its locations and products. 20 years later, they are a dominant chain and opening up a new superstore and someone at corporate says, "Hey, let's put a staple in our L so it looks like a staple and it's all quaint." Brilliant idea. So now every store has a remodel, and all the signs go up with the new design. Still Staples, but now has a staple in the logo. This is how I envision the development of that sign, but now, we're supposed to believe that that's always been their logo. The implications for this are staggering:
+    
+    The ability to rewrite your company's history means scandals can be erased, and that company's always been the way it is now. Imagine you run a burger joint and it's discovered that your meat is foul. This would irreversibly damage your brand even if when discovered you switched to real meat. The damage is done. But, if you could rewrite history as if that never happened, then that's in your company's best interest. On a smaller scale, if you can throw in a nice twist on your logo, it might be better for you if customers believe it was always there.
+    
+    If you're king, it's beneficial for your subjects to believe you've always been king; that there is no other way, no escape.
+    
+    “He who controls the past controls the future. He who controls the present controls the past.” George Orwell, 1984. 
+    
+    For practical minds --
+    
+    Let's say you have a new company but you can't decide what the name of it should be. You are deciding between Chic-fil-a, Chik-fil-a, and Chick-fil-a. So what do you do? You launch restaurants with all 3 names in different towns across the country. No commercials yet, You lower prices and rely on word of mouth. Then you measure the sales and reactions to the names and you ultimately decide Chick-fil-a makes the most sense. You have all the other spelling changed like nothing ever happened, and you start your ad campaign claiming you've always been what's actually been recently tested. In this scenario, I'm the guy in Westlake Village eating my Chic-fil-a sandwich for $3 and saying to myself, "They really should have a 'K' in the name, like chicken; that would make more sense." I remember that thought. I remember conversations with my friends about the name, joking around about how to pronounce it. Listen, there's no joke if they named it "Chick" . Only "Chic" allows for confusion. My memories of the name as confusing make no sense in the current context of the the name always having been "chick". So, that to me in the strange phenomenon of the Mandela Effect and the potential market explanation. It's like a focus group of the largest proportions. But I wouldn't throw out the parallel universes explanations or perhaps a combination of the two where somehow things are changing supernaturally either randomly or by design.
+    
+    If you're with me so far, which believe me I know you're not, I have noticed a pattern. Every change is either ominous or obvious. "Life is like a box of chocolates" becomes "life was like a box of chocolates" in Forest Gump. "We're gonna need a bigger boat" becomes "you're gonna need a bigger boat." "It's a beautiful day in this neighborhood" instead of "the neighborhood" which implies inclusion to all neighborhoods vs. exclusion from where it's nice. Those are the ominous ones. The obvious ones are the V and the W separating, or the Chic-fil-a becoming Chick-fil-et. Disclaimer: whether or not the changes are happening I'm interested in the implications of the changes if they did in fact happen.
+    
+    “It is the mark of an educated mind to be able to entertain a thought without accepting it.”
+    ― Aristotle .</p>
       <div id="image13"></div>
+
       <h2>Poems</h2>
       <p>by Max Jann
 
@@ -533,34 +562,7 @@ function App() {
     
     
     React Colors: https://kind-babbage-529f5c.netlify.com/</p>
-    <div id="image6"></div>
-    <h2>The Mandela Effect</h2>
-    <p>As a child, we learn what symbols mean. The letter V means a phonetic sound we can use to combine with other sounds and make words which are also symbols with compounded meaning. There's nothing inherently V about the letter V other than our decision to make it so.
-
-    I didn't even know the handicap symbol represented a person in a wheelchair. I just thought of it as another letter. An arbitrary shape of lines. I thought of it as a complicated G that stood for handicapped and I didn't think about why. One day it hit me super hard that the whole time, it was supposed to be representing a person in a wheelchair. Handicap is a broader category than just people with wheelchairs, which is likely where my mistake came from. This experience of realizing a symbol stood for something other than what I thought, has also happened to me with the VW logo, but this is where it gets highly complicated.
     
-    I have a distinct memory of the VW logo being connected, so much so that I went through life thinking that was the symbol for VW, without realizing it contained a V and a W overlapped and that's what it stood for. I cut out the middle man. I associated the strange symbol with that car company, without seeing the V and W, just like how I associated the handicap sign with handicapped people, without ever seeing the wheelchair.
-    
-    Here's the weird part: I don't think I would have been able to miss the V and the W if the two were separated by a line. There's not enough subtlety for me to have an Ahah moment that I clearly remember having. It's the V. You know? The W is clear in both cases, but the V is much more noticeable by dividing where it ends and the W begins.
-    
-    Now, no such mistakes can be made. It's possible that even the handicap symbol has changed and become more obvious. I'm interested in making sense of the craziness. It's possible that I'm remembering things wrong or noticing the same thing differently now. But still, the handicap and VW thing both hit me so hard. The worst part about all of this is, that after I learned the VW symbol contained a V and a W and that's why it was the way it was, I started noticing the gap between the V and the W on their cars, but I thought this was the car company adjusting itself and modernizing it's logo to become more obvious to increase brand recognition or utilize more precise design. Like Staples adding a staple to one of their letters in their logo. How cute? That's a marketing decision. That's a smart choice. It wasn't there the whole time, right? But now, when you dig, the scary part is that these companies claim the logo has always been that way. It simply reminds me of 1984 and rewriting history to serve the present. A crude form of retrocausality.
-    
-    Let me paint a picture for you that I think makes more sense. A Mom and Dad shop opens up and they sell office supplies and call themselves, "Staples". They sell mostly staples, maybe only staples. The sign is painted by their daughter and just says, "Staples" with no staple fancily designed within the letters on the sign. The company does well and expands its locations and products. 20 years later, they are a dominant chain and opening up a new superstore and someone at corporate says, "Hey, let's put a staple in our L so it looks like a staple and it's all quaint." Brilliant idea. So now every store has a remodel, and all the signs go up with the new design. Still Staples, but now has a staple in the logo. This is how I envision the development of that sign, but now, we're supposed to believe that that's always been their logo. The implications for this are staggering:
-    
-    The ability to rewrite your company's history means scandals can be erased, and that company's always been the way it is now. Imagine you run a burger joint and it's discovered that your meat is foul. This would irreversibly damage your brand even if when discovered you switched to real meat. The damage is done. But, if you could rewrite history as if that never happened, then that's in your company's best interest. On a smaller scale, if you can throw in a nice twist on your logo, it might be better for you if customers believe it was always there.
-    
-    If you're king, it's beneficial for your subjects to believe you've always been king; that there is no other way, no escape.
-    
-    “He who controls the past controls the future. He who controls the present controls the past.” George Orwell, 1984. 
-    
-    For practical minds --
-    
-    Let's say you have a new company but you can't decide what the name of it should be. You are deciding between Chic-fil-a, Chik-fil-a, and Chick-fil-a. So what do you do? You launch restaurants with all 3 names in different towns across the country. No commercials yet, You lower prices and rely on word of mouth. Then you measure the sales and reactions to the names and you ultimately decide Chick-fil-a makes the most sense. You have all the other spelling changed like nothing ever happened, and you start your ad campaign claiming you've always been what's actually been recently tested. In this scenario, I'm the guy in Westlake Village eating my Chic-fil-a sandwich for $3 and saying to myself, "They really should have a 'K' in the name, like chicken; that would make more sense." I remember that thought. I remember conversations with my friends about the name, joking around about how to pronounce it. Listen, there's no joke if they named it "Chick" . Only "Chic" allows for confusion. My memories of the name as confusing make no sense in the current context of the the name always having been "chick". So, that to me in the strange phenomenon of the Mandela Effect and the potential market explanation. It's like a focus group of the largest proportions. But I wouldn't throw out the parallel universes explanations or perhaps a combination of the two where somehow things are changing supernaturally either randomly or by design.
-    
-    If you're with me so far, which believe me I know you're not, I have noticed a pattern. Every change is either ominous or obvious. "Life is like a box of chocolates" becomes "life was like a box of chocolates" in Forest Gump. "We're gonna need a bigger boat" becomes "you're gonna need a bigger boat." "It's a beautiful day in this neighborhood" instead of "the neighborhood" which implies inclusion to all neighborhoods vs. exclusion from where it's nice. Those are the ominous ones. The obvious ones are the V and the W separating, or the Chic-fil-a becoming Chick-fil-et. Disclaimer: whether or not the changes are happening I'm interested in the implications of the changes if they did in fact happen.
-    
-    “It is the mark of an educated mind to be able to entertain a thought without accepting it.”
-    ― Aristotle .</p>
     <div id="image7"></div>
     <h2>Quantum Circle</h2>
     <p>So the equation of a circle is (x-h)^2 + (y-k)^2 = r^2
